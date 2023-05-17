@@ -1,6 +1,5 @@
 package-lock.json
 solution/
-exercises/
 ignoreExercises/
 ignoreTest/
 *.DS_Store
