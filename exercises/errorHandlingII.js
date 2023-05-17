@@ -11,7 +11,7 @@ module.exports.run = async function(url){
 	Write your code below the comment.
 */
 /*
-sudo code:
+pseudo code:
     change the function to async function
     use try catch method
 	try get url

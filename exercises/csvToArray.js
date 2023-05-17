@@ -19,7 +19,7 @@ module.exports.run = function(csv){
 NOTICE: the testing input contains "/n" while the above example input contains "\n", 
 which is not consistent if it is not made intentionally. 
 
-sudo code:
+pseudo code:
     1.split csv file with "/n" into array, then split the sub element(string) with "," into sub-array
 	2.remove the first elements of array that are just headers and assign headers to a new variable named title
 	3.iterate through each element of data array and replace each sub array with a key index filled object

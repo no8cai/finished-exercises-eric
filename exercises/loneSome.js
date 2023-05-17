@@ -11,7 +11,7 @@ Write your code below the comment.
 
 */
 /*
-sudo code:
+pseudo code:
    since there are only 3 inputs, the condition statement will do the job. 
    condition 1: a=b=c then return 0
    condition 2: a=b not equal to c then return c

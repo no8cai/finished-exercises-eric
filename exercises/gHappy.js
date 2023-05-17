@@ -10,7 +10,7 @@ Return true if all the g's in the given string are happy, otherwise return false
         Write your code below the comment.
 */
 /*
-sudo code:
+pseudo code:
     input a string
 	detect edge cases first (if str contains 0 character)
 	search through the string (time complexty of O(n))
